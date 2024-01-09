@@ -1,10 +1,15 @@
-[practica2-fsi - Hoja 1.pdf](https://github.com/Yere03/Practica-2-FSI/files/13878216/practica2-fsi.-.Hoja.1.pdf)
-![practica2-fsi - Hoja 1_page-0001](https://github.com/Yere03/Practica-2-FSI/assets/145657998/6b4d52ec-9a49-41fa-8b50-ad4ea48a764a)
-![practica2-fsi - Hoja 1_page-0004](https://github.com/Yere03/Practica-2-FSI/assets/145657998/4af9c221-31b5-4ff6-8a67-e4a3e957db0f)
-![practica2-fsi - Hoja 1_page-0003](https://github.com/Yere03/Practica-2-FSI/assets/145657998/845c1542-c768-4ac4-bb34-2937678e3f48)
-![practica2-fsi - Hoja 1_page-0002](https://github.com/Yere03/Practica-2-FSI/assets/145657998/f10f915c-a704-4f61-8f84-f5f3ce0d7c5a)
-![practica2-fsi - Hoja 1_page-0004-1](https://github.com/Yere03/Practica-2-FSI/assets/145657998/499f56bc-bb09-4552-85c0-47147d47f004)
-![practica2-fsi - Hoja 1_page-0003-1](https://github.com/Yere03/Practica-2-FSI/assets/145657998/fa0545cc-7eab-4cde-93b3-eb22cf2494d7)
-![practica2-fsi - Hoja 1_page-0002-1](https://github.com/Yere03/Practica-2-FSI/assets/145657998/853d6d19-153c-4ab3-9ab6-c27bdeab76ea)
-![practica2-fsi - Hoja 1_page-0001-1](https://github.com/Yere03/Practica-2-FSI/assets/145657998/e83c750f-746f-4321-a773-1070e3401e2b)
-[ReadMe.md](https://github.com/Yere03/Practica-2-FSI/files/13878215/ReadMe.md)
+## Práctica 2 (Red Neuronal Convolucional)
+
+El objetivo principal de este modelo de red neuronal es indicar si en la imagen pasada como parámetro se encuentra fuego o no. Los mejores accuracy en cuanto al entrenamiento y la validación son 0,9994 y 0,98447 respectivamente.
+
+Además del código de la creación del modelo. Hemos creado un script para probar modelos de forma individual pasándole una imagen como parámetro de una función y otro para poder comparar resultados de modelos para un grupo de imágenes sin relación alguna con el dataset de entrenamiento y validación.
+
+En esta práctica hemos utilizado el lenguaje de programación
+Python con bibliotecas como Tensorflow, keras, Matplotlib y Numpy.
+
+A lo largo de la práctica hemos modificado varias veces la arquitectura de la red neuronal.
+Cambiándole el número de capas, el tipo de capa, las dimensiones de las imágenes y varios parámetros.
+
+Este registro de capas y resultados están registrados en él [PDF](<practica2-fsi - Hoja 1.pdf>) también se puede ver directamente en la [hoja de cálculo](https://docs.google.com/spreadsheets/d/13BSoWVJLA1nB_YC3Gdmtv0DHV2zwjAWGG8k0DPOCewQ/edit?usp=sharing) de Google clicando en los enlaces correspondientes para ver más detenidamente además se le mostrará en las imágenes siguientes:
+
+![page1](<practica2-fsi - Hoja 1_page-0002-1.jpg>) ![page2](<practica2-fsi - Hoja 1_page-0003-1.jpg>) ![page4](<practica2-fsi - Hoja 1_page-0004-1.jpg>) ![page5](<practica2-fsi - Hoja 1_page-0001-1.jpg>)
